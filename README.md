@@ -1,2 +1,2 @@
 # pythoneveryday
-每日python联系
+每日python练习
